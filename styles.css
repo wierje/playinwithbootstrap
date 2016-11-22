@@ -1,4 +1,8 @@
 body {
-  background-color: #eee;
+  background-color: #efefef;
   font-family: Roboto, "Century Gothic", sans-serif;
+}
+
+h1 {
+  color: red;
 }
