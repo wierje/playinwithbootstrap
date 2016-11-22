@@ -6,3 +6,8 @@ body {
 h1 {
   color: red;
 }
+
+img {
+  height: 200px;
+  width: auto;
+}
